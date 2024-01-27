@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/allanbernardo"><img src="https://api.daily.dev/devcards/cb8654d3fd4a44768eac3ef085b231cf.png?r=wlq" width="400" alt="Allan Bernardo's Dev Card"/></a>
 ### Hi there, I'm Allan Bernardo 👋
 
 
