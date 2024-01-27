@@ -66,15 +66,10 @@
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-AllanBernardo02.vercel.app/?user=AllanBernardo02&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-AllanBernardo02.vercel.app/api?username=AllanBernardo02&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <img src="https://res.cloudinary.com/AllanBernardo02/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stats Themes" width="600px"/>
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-AllanBernardo02.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 
-- 🔭 I’m currently working in Mweeb Information Technology, INC.
-- 📫 Front-End Developer at Mweeb, Inc.
-- 🌱 Skills : MongoDB, ExpressJs, ReactJS, NodeJs........
-- 💬 Ask me about Anything you want to know about me! ...
-- 📫 How to reach me: You can reach me in https://www.linkedin.com/in/allan-bernardo-a56752229/ ...
-- ⚡ Fun fact: "Testing leads to failure, and failure leads to understanding."...
 
